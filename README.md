@@ -3,7 +3,7 @@ This is a repository that holds all of the information necessary for the methods
 
 
 ## Getting the data and code
-Clone this repository to make a local copy on your machine. You will then need to obtain the raw data needed for the analysis (note, the importation data will be fake data, unless you explicitly received it from Texas DSHS or myself). Go to this **link**, and download the compressed folders. Unzip them and copy them into your local repository.
+Clone this repository to make a local copy on your machine. You will then need to obtain the raw data needed for the analysis (note, the importation data will be fake data, unless you explicitly received it from Texas DSHS or myself). Go to this [link](https://doi.org/10.18738/T8/HYZ53B), and download the compressed folders. Unzip them and copy them into your local repository.
 
 ## Running the code
 1. Double click on the .Rproj file `rnot_updater.Rproj`
